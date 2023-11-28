@@ -14,6 +14,8 @@ function App() {
 
       <span>Certificado GPTW</span>
 
+      <button>Subir</button>
+
       <footer>Footer</footer>
     </>
   );
