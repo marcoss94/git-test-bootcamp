@@ -12,6 +12,8 @@ function App() {
 
       <p className="read-the-docs">Click on the</p>
 
+      <span>Certificado GPTW</span>
+
       <footer>Footer</footer>
     </>
   );
