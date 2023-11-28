@@ -1,11 +1,6 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
       <nav>Navbar</nav>
@@ -14,9 +9,23 @@ function App() {
 
       <span>Certificado GPTW</span>
 
-      <button>Subir</button>
-
-      <footer>Footer</footer>
+      <section>
+        lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam lorem
+        ipsum dolor sit amet consectetur adipisicing elit. Quisquam lorem ipsum
+        dolor sit amet consectetur adipisicing elit. Quisquam lorem ipsum dolor
+        sit amet consectetur adipisicing elit. Quisquam lorem ipsum dolor sit
+        amet consectetur adipisicing elit. Quisquam lorem ipsum dolor sit amet
+        consectetur adipisicing elit. Quisquam lorem ipsum dolor sit amet
+        consectetur adipisicing elit. Quisquam lorem ipsum dolor sit amet
+        consectetur adipisicing elit. Quisquam lorem ipsum dolor sit amet
+        consectetur adipisicing elit. Quisquam lorem ipsum dolor sit amet
+        consectetur adipisicing elit. Quisquam lorem ipsum dolor sit amet
+        consectetur adipisicing elit. Quisquam lorem ipsum dolor sit amet
+        consectetur adipisicing elit. Quisquam lorem ipsum dolor sit amet
+        consectetur adipisicing elit. Quisquam lorem ipsum dolor sit amet
+        consectetur adipisicing elit. Quisquam lorem ipsum dolor sit amet
+        consectetur adipisicing elit. Quisquam
+      </section>
     </>
   );
 }
